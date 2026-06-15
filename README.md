@@ -1,5 +1,23 @@
 # 💻 CodeVerse – Coding Platform
 
+## 🎥 Demo Preview
+
+![CodeVerse Demo](./assets/codeverse-demo.gif)
+
+### Full Video Walkthrough
+
+
+
+https://github.com/user-attachments/assets/4f70f5eb-60e5-4628-994c-46d77c714063
+
+
+
+
+
+
+
+
+
 ## 🚀 Overview
 **CodeVerse** is a modern, full-stack collaborative coding platform designed to help developers improve their algorithmic problem-solving skills.  
 Built with **React**, **Node.js**, and **Socket.IO**, it provides **real-time collaboration**, **AI-powered assistance**, and **comprehensive problem management**.
